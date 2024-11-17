@@ -1,4 +1,4 @@
-#Assignment 2 - Processes, Threads and Synchronization Module
+# Assignment 2 - Processes, Threads and Synchronization Module
 This is the second assignment for the 2016 Operating Systems course.
 This code in particular was submitted in early May of 2016 and scored full points.
 The original task description (and helper tester program) has since been lost, but below is an approximate description of it.
